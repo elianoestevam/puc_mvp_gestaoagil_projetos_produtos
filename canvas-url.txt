@@ -1,0 +1,9 @@
+PUC RIO (Pós-Graduação)
+Curso: Engenharia de Software
+Aluno: Francisco Eliano Estevam Sobrinho
+Matrícula: 4052023001173
+Disciplina: Gestão Ágil de Projetos e Produtos
+Entrega: MPV
+Objeto: Link para visualização do board do Miro contendo as etapas realizadas para a Lean Inception e MVP Canvas
+
+https://miro.com/app/board/uXjVKTJy2gc=/?share_link_id=881375949118
